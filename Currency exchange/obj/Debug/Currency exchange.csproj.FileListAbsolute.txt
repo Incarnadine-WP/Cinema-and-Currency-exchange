@@ -1,0 +1,7 @@
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\bin\Debug\Currency exchange.exe.config
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\bin\Debug\Currency exchange.exe
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\bin\Debug\Currency exchange.pdb
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Currency exchange.csproj.AssemblyReference.cache
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Currency exchange.csproj.CoreCompileInputs.cache
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Currency exchange.exe
+D:\Programs\Unity Projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Currency exchange.pdb
