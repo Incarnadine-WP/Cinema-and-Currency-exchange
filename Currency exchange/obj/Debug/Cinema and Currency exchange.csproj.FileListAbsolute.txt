@@ -1,0 +1,7 @@
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\bin\Debug\Currency exchange.exe.config
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\bin\Debug\Currency exchange.exe
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\bin\Debug\Currency exchange.pdb
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Cinema and Currency exchange.csproj.AssemblyReference.cache
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Cinema and Currency exchange.csproj.CoreCompileInputs.cache
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Currency exchange.exe
+X:\Programs\Unity projects\VS_Projects\Currency exchange\Currency exchange\Currency exchange\obj\Debug\Currency exchange.pdb
