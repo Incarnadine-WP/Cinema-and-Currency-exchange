@@ -69,7 +69,7 @@ namespace Cinema
                             userSector = Console.ReadLine();
                         }
 
-                        if (cleanSector > space.GetLength(1) +2 || cleanSector <= 0)
+                        if (cleanSector > space.GetLength(1) +1 || cleanSector <= 0)
                         {
                             Console.WriteLine("Такого ряда не существует.");
                             break;
@@ -85,7 +85,7 @@ namespace Cinema
                             placeCount = Console.ReadLine();
                         }
 
-                        if (cleanCount >= space.GetLength(0) || cleanCount <= 0)
+                        if (cleanCount >= space.GetLength(1) || cleanCount <= 0)
                         {
                             Console.WriteLine("Такого места не существует.");
                             break;
